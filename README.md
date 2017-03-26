@@ -6,7 +6,7 @@ Hello World !
 - J'aime bien les listes
 - et aussi un autre élément de liste
 
-[et voici un lien] (http://didapro.org/7)
+[et voici un lien](http://didapro.org/7)
 
 Voici une nouvelle ligne !
 
