@@ -7,3 +7,5 @@ Hello World !
 - et aussi un autre élément de liste
 
 [et voici un lien]
+
+Voici une nouvelle ligne !
